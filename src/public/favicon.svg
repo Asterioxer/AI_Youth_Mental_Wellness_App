@@ -1,0 +1,89 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Serenique Logo - Mind Garden: Representing growth, mental wellness, and serenity -->
+  
+  <!-- Background circle for favicon -->
+  <circle cx="16" cy="16" r="16" fill="url(#gradient)"/>
+  
+  <!-- Main trunk/stem - representing foundation and strength -->
+  <path 
+    d="M16 28C16 28 14 24 14 20C14 18 15 16 16 16C17 16 18 18 18 20C18 24 16 28 16 28Z" 
+    fill="rgba(255,255,255,0.9)"
+    strokeWidth="0.5"
+    stroke="rgba(255,255,255,0.6)"
+  />
+  
+  <!-- Left branch system - representing neural pathways and growth -->
+  <path 
+    d="M16 16C16 16 12 14 10 12C8 10 8 8 10 8C12 8 14 10 16 12" 
+    fill="none"
+    stroke="rgba(255,255,255,0.8)"
+    strokeWidth="1.5"
+    strokeLinecap="round"
+  />
+  
+  <!-- Right branch system - representing balance and harmony -->
+  <path 
+    d="M16 16C16 16 20 14 22 12C24 10 24 8 22 8C20 8 18 10 16 12" 
+    fill="none"
+    stroke="rgba(255,255,255,0.8)"
+    strokeWidth="1.5"
+    strokeLinecap="round"
+  />
+  
+  <!-- Central growth point - representing mindfulness and core strength -->
+  <circle 
+    cx="16" 
+    cy="16" 
+    r="2" 
+    fill="rgba(255,255,255,0.9)"
+  />
+  
+  <!-- Left leaf/mind node - representing thoughts and emotions -->
+  <circle 
+    cx="10" 
+    cy="8" 
+    r="1.5" 
+    fill="rgba(255,255,255,0.7)"
+  />
+  
+  <!-- Right leaf/mind node - representing balance and wellness -->
+  <circle 
+    cx="22" 
+    cy="8" 
+    r="1.5" 
+    fill="rgba(255,255,255,0.7)"
+  />
+  
+  <!-- Flowing energy lines - representing serenity and inner peace -->
+  <path 
+    d="M8 10C8 10 6 12 6 14C6 16 8 16 10 14" 
+    fill="none"
+    stroke="rgba(255,255,255,0.6)"
+    strokeWidth="1"
+    strokeLinecap="round"
+  />
+  
+  <path 
+    d="M24 10C24 10 26 12 26 14C26 16 24 16 22 14" 
+    fill="none"
+    stroke="rgba(255,255,255,0.6)"
+    strokeWidth="1"
+    strokeLinecap="round"
+  />
+  
+  <!-- Top growth elements - representing aspiration and hope -->
+  <path 
+    d="M14 6C14 6 15 4 16 4C17 4 18 6 18 6" 
+    fill="none"
+    stroke="rgba(255,255,255,0.7)"
+    strokeWidth="1.2"
+    strokeLinecap="round"
+  />
+
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -10,7 +10,7 @@
   Run `npm run dev` to start the development server.
 
 
-  # Working Spabase Logs
+  # Working Supabase Logs
 
   Supabase client initialized: {
   "url": "https://zzxeiiuseltxopybftvy.supabase.co",
